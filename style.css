@@ -11,7 +11,7 @@ header nav{float:right; width:30%}
 
 header div h1{text-align: center;}
 
-header div{float:left;}
+header div{float:left;height: 200px;}
 
 header nav ul li{display:inline-block;padding:20px;}
 
@@ -26,5 +26,5 @@ header nav ul li a{text-decoration: none;}
 #firstparagraph{text-align: center;}
 #secondparagraph{text-align: center;}
 
-footer{background-color: #4ca1a3;height:40px;text-align: center;}
+footer{background-color: #4ca1a3;height:50px;text-align: center;}
 
