@@ -36,6 +36,3 @@ if (username=="solar energy"){
 
 
 
-
-
-
