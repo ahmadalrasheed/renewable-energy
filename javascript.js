@@ -1,3 +1,4 @@
+
 var feedback =prompt("what do you think about my website ? answer with good or bad ?")
 
 if (feedback=="good"){
@@ -49,6 +50,3 @@ if (username=="solar energy"){
 } else{
   alert("please choose solar energy or electrical energy!!")
 }
-
-
-
