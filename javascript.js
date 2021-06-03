@@ -14,7 +14,23 @@ else {
 
 confirm("Press a button!");
 
-document.write('<p style="color:green">This is From JavaScript !! welcome to my website !</p>')
+
+var bestcolor= prompt("what do you prefer green color or red color?")
+
+if (bestcolor=="green"){
+  document.write('<p style="color:green">This is a welcoming sentence with ' + bestcolor + ' color as you like!</p>')
+  
+} else if(bestcolor=="red"){
+   document.write('<p style="color:red">This is a welcoming sentence with ' + bestcolor + ' color as you like!</p>')
+
+
+} else{
+  alert("please choose green or red color ")
+}
+
+
+
+
 
 
 var username= prompt("what is your name?")
@@ -33,9 +49,6 @@ if (username=="solar energy"){
 } else{
   alert("please choose solar energy or electrical energy!!")
 }
-
-
-
 
 
 
